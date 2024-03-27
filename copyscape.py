@@ -46,14 +46,14 @@ def check_plagiarism(text):
 
 # Example usage
 
-text_to_check = """** James Crumbley Convicted of Manslaughter in Son's School Shooting**
+# text_to_check = """** James Crumbley Convicted of Manslaughter in Son's School Shooting**
 
-**PONTIAC, MI –** In a historic decision, James Crumbley, father of the Oxford High School shooter, was found guilty of involuntary manslaughter on March 14, 2024, for failing to prevent the deadly incident that shocked the nation. Mr. Crumbley is now one of the first parents in the United States to be held criminally responsible for a child’s violent acts at school.
+# **PONTIAC, MI –** In a historic decision, James Crumbley, father of the Oxford High School shooter, was found guilty of involuntary manslaughter on March 14, 2024, for failing to prevent the deadly incident that shocked the nation. Mr. Crumbley is now one of the first parents in the United States to be held criminally responsible for a child’s violent acts at school.
 
-The trial, closely watched across the country, brought to light questions around gun access and parental responsibility. After 10 and a half hours of deliberation, a somber Mr. Crumbley was seen shaking his head while the verdict was read in Oakland County Court. Alongside his wife, Jennifer Crumbley, who was found guilty on identical charges earlier, the couple now faces up to 15 years in prison, with their sentencing scheduled for next month.
+# The trial, closely watched across the country, brought to light questions around gun access and parental responsibility. After 10 and a half hours of deliberation, a somber Mr. Crumbley was seen shaking his head while the verdict was read in Oakland County Court. Alongside his wife, Jennifer Crumbley, who was found guilty on identical charges earlier, the couple now faces up to 15 years in prison, with their sentencing scheduled for next month.
 
-During the trial, prosecutors painted a damning picture of negligence. Evidence revealed t
-"""
+# During the trial, prosecutors painted a damning picture of negligence. Evidence revealed t
+# """
 
 
-check_plagiarism(text_to_check)
+# check_plagiarism(text_to_check)
